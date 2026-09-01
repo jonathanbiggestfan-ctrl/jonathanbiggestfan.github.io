@@ -20,7 +20,16 @@ img {
     width: 20%;
     height: 50%;
     position: absolute;
-    left: 657px;
+    left: 600px;
+    top: 145px;
+    transform: rotate(352deg);
+}
+
+.xaliKILLyourself {
+    width: 20%;
+    height: 50%;
+    position: absolute;
+    left: 700px;
     top: 145px;
     transform: rotate(352deg);
 }

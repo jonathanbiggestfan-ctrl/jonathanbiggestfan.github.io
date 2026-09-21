@@ -5,9 +5,9 @@ body {
 h1 {
   color: rgb(175, 89, 122);
   text-align: left;
-  font-size: 55px;
+  font-size: 65px;
   position: absolute;
-  top: 7%;
+  top: 5.5%;
   left: 5%;
 }
 
@@ -29,7 +29,64 @@ img {
     width: 20%;
     height: 50%;
     position: absolute;
-    left: 700px;
-    top: 145px;
-    transform: rotate(352deg);
+    left: 900px;
+    top: 400px;
+    transform: rotate(20deg);
+}
+
+.bookNquill {
+    width: 20%;
+    height: 35%;
+    position: absolute;
+    left: 925px;
+    top: 130px;
+    transform: rotate(15deg);
+}
+
+.startQUIZ {
+    width: 10%;
+    height: %;
+    position: absolute;
+    left: 991px;
+    top: 217px;
+}
+
+.members {
+    width: 15%;
+    height: %;
+    position: absolute;
+    left: 42px;
+    top: 230px;
+    font-size: 30px;
+    font-family: "Faustina", serif;
+}
+
+.empires {
+    width: 15%;
+    height: %;
+    position: absolute;
+    left: 42px;
+    top: 294px;
+    font-size: 30px;
+    font-family: "Faustina", serif;
+}
+
+.communityLOCATIONS {
+    width: 15%;
+    height: %;
+    position: absolute;
+    left: 42px;
+    top: 358px;
+    font-size: 30px;
+    font-family: "Faustina", serif;
+}
+
+.events {
+    width: 15%;
+    height: %;
+    position: absolute;
+    left: 42px;
+    top: 460px;
+    font-size: 30px;
+    font-family: "Faustina", serif;
 }
